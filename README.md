@@ -1,4 +1,4 @@
-https://tbarantr.github.io/daydreamer/
+https://tbarantr.github.io/blog/
 
 Blog template
   * doc: https://mmistakes.github.io/minimal-mistakes/
