@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "tbarantr"
+  name   : "方小醒"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Life is but a dream!"
+  bio    : "To be a rock and not to roll"
   # links:
   #   - label: "Website"
   #     icon: "fas fa-fw fa-link"
