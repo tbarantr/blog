@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "方小醒"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "To be a rock and not to roll"
+  bio    : "Life is but a dream"
   # links:
   #   - label: "Website"
   #     icon: "fas fa-fw fa-link"
@@ -95,7 +95,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: true
+      read_time: false
       comments: false
       share: false
       related: false
