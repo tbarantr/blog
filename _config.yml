@@ -27,7 +27,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -85,7 +85,7 @@ footer:
   #     icon: "fab fa-fw fa-instagram"
   #     url: "https://instagram.com/"
 
-words_per_minute: 500
+words_per_minute: 300
 defaults:
   # _posts
   - scope:
