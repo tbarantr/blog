@@ -25,9 +25,9 @@
       {% endif %}
     </h2>
     {% include page__meta.html type=include.type %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 100 }} </p>{% endif %}
+    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 100 }} {% if post.content.size > post.excerpt.size %}<a href="{{ post.url | relative_url }}">[>>>more]</a>{% endif %} </p>{% endif %}
 
-    {% if post.content.size > post.excerpt.size %}<a href="{{ post.url | relative_url }}">read more</a>{% endif %}
+
 
   </article>
 </div>
