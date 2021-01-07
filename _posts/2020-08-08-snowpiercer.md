@@ -1,5 +1,5 @@
 ---
-title: "雪国列车"
+title: "【电影感想】雪国列车"
 date: 2020-08-08T20:00:00-07:00
 last_modified_at: 2021-01-01T00:00:00-07:00
 categories:
