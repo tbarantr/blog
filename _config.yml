@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "方小醒"
+  name   : "tbarantr"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Life is but a dream"
   # links:
@@ -85,7 +85,7 @@ footer:
   #     icon: "fab fa-fw fa-instagram"
   #     url: "https://instagram.com/"
 
-words_per_minute: 300
+words_per_minute: 10
 defaults:
   # _posts
   - scope:
@@ -94,7 +94,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      read_time: false
+      read_time: true
       comments: false
       share: false
       related: false
