@@ -85,7 +85,7 @@ footer:
   #     icon: "fab fa-fw fa-instagram"
   #     url: "https://instagram.com/"
 
-words_per_minute: 500
+words_per_minute: 10
 defaults:
   # _posts
   - scope:
