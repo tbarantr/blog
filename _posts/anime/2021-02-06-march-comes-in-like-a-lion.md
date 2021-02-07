@@ -8,7 +8,7 @@ tags:
   - 动漫
 published: true
 ---
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9tb0XrXrBBA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 《三狮》是去年年末偶然开始看的。距离第一季播出刚刚好四年。一开始其实我并没有抱有太大的期待，毕竟感觉不是当年的话题作，虽然可以姑且算作运动题材，说的却是我完全没接触过的将棋，而且刚开始看的时候，不太能适应人设和节奏。但是一旦过了前面几集，适应了动画的人设和节奏，竟然发现完全停不下来。其实也不是剧情类那种“好想知道后面发生了什么”的停不下来，只是每每看完一集，都会沉浸在动画营造的或阴冷或温暖的氛围中，手机不自觉的点开了下一集，好让这种氛围延续下去。不知不觉，两季四十多集的番剧转眼间就看完了。
 
 动画讨论的话题其实很多，亲情、友情、成长、胜负、衰老，很多很多，而且他们都是占据了很多主要的篇幅。如果只是单纯的说《三狮》是一部将棋番，我觉得是不公平的，是在低估这部作品。我觉得更准确的说法是，像坤哥有一次聊到的，这是一部关于将棋的群像剧。我很同意。我觉得人物以及人物之间的关系才是这部作品的核心。没有善恶，没有对错，本剧中出现的所有人物（除了几个霸凌的碧池）都非常的可爱有趣，即使他们有时会给男主带来痛苦。
@@ -18,5 +18,3 @@ published: true
 我印象最深的片段有两个，一个是第40集的棋匠战，另一个是第44集的《另一个家》。感染力简直爆炸，看完之后《三狮》在我心中直接封神。
 
 非常期待第三季！
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9tb0XrXrBBA?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
