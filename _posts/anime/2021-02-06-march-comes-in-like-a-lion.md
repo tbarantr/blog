@@ -9,7 +9,7 @@ tags:
 published: true
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9tb0XrXrBBA?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br></br>
+<br>
 
 《三狮》是去年年末偶然开始看的。距离第一季播出刚刚好四年。一开始其实我并没有抱有太大的期待，毕竟感觉不是当年的话题作，虽然可以姑且算作运动题材，说的却是我完全没接触过的将棋，而且刚开始看的时候，不太能适应人设和节奏。但是一旦过了前面几集，适应了动画的人设和节奏，竟然发现完全停不下来。其实也不是剧情类那种“好想知道后面发生了什么”的停不下来，只是每每看完一集，都会沉浸在动画营造的或阴冷或温暖的氛围中，手机不自觉的点开了下一集，好让这种氛围延续下去。不知不觉，两季四十多集的番剧转眼间就看完了。
 
