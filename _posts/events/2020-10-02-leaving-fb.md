@@ -6,7 +6,6 @@ categories:
   - 日常
 tags:
   - 工作
-  - 辞职
 published: true
 ---
 
