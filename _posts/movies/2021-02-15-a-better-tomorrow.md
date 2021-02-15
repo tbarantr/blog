@@ -8,7 +8,7 @@ tags:
   - 电影
 published: true
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SP5mykR20Ng?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SP5mykR20Ng?start=5&autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 
