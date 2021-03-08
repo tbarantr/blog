@@ -11,11 +11,11 @@ published: true
 
 之前雨天赛道日冲出赛道后，泥水灌进了engine bay。车目前没什么影响，除了脏。
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021/brz_engine_bay_1.png){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021/brz_engine_bay_1.jpeg){: .align-center}
 
 拖了好几周，决定把engine bay清洗一下。主要担心的点是一些不能接触水的器件。在网上看了看文章和视频，然后取他们的superset罩了起来。
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021/brz_engine_bay_2.png){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021/brz_engine_bay_2.jpeg){: .align-center}
 
 基本上要罩上
 1. alternator
