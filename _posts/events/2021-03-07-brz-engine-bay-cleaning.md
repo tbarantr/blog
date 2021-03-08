@@ -25,6 +25,4 @@ published: true
 5. oil filter
 6. 一些线头
 
-这次没有做degreasing，就只是把泥土冲洗了一下，也没有擦得很仔细，所以最后也不是特别干净。不过准备工作还是相通的，记录于此，以备后用。
-
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/2021/brz_engine_bay_3.png){: .align-center}
+这次没有做degreasing，就只是把泥土冲洗了一下，也没有擦得很仔细。不过准备工作都是相通的，所以记录于此，以备后用。
