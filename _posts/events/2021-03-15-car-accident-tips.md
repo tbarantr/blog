@@ -1,5 +1,5 @@
 ---
-title: "Bob doesn't know CA's car accident laws. Don't be like Bob."
+title: "这是小明 小明不懂加州交通事故法 不要学小明"
 date: 2021-03-15T12:10:00-07:00
 last_modified_at: 2021-03-15T00:00:00-07:00
 categories:
